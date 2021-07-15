@@ -1,3 +1,4 @@
+/* Pagina con color de fondo definido en vez de imagen de fondo*/
 body{
     background-color: #f3f4f5;
 }
@@ -8,12 +9,13 @@ body{
     font-size: 24px;
     text-align: center;
 }
-
+/*  Imagen del header con borde punteado y redondeada*/
 img{
-    padding: 10px;
+    padding: 2px;
     border-radius: 25%;
-    border-style: groove;
-    box-shadow: gray 10px;
+    border-style: dotted;
+    border-color: rgb(163, 163, 163);
+    box-shadow: gray 10px inset;
 }
 
 
@@ -30,6 +32,7 @@ img{
     font-size: 18px;
 }
 
+/* Articulo centrado y con borde punteado centrado al medio de la pagina*/
 .principal article{
     border: 2px dotted darkgray;
     margin: 10px 50px;
