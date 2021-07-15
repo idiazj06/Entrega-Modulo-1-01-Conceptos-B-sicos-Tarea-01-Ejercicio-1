@@ -31,13 +31,14 @@ img{
 }
 
 .principal article{
-    border: 2px dotted lightgreen;
+    border: 2px dotted darkgray;
     margin: 10px 50px;
     padding: 20px;
     text-align: center;
     color: #757575;
     font-family: Georgia;
     font-size: 18px;
+    box-shadow: gray inset;
 }
 
 footer{
