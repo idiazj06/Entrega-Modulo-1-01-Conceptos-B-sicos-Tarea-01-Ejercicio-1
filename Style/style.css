@@ -9,6 +9,12 @@ body{
     text-align: center;
 }
 
+img{
+    padding: 10px;
+    border-radius: 25%;
+    border-style: groove;
+    box-shadow: gray 10px;
+}
 
 
 .principal{
